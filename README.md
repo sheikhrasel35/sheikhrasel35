@@ -9,9 +9,9 @@ Learner
 
 I am a software engineering student passionate about building innovative and efficient solutions. My interests include web development, algorithms, and problem-solving. I enjoy working on projects that enhance my coding skills and expand my knowledge of software development. I am proficient in languages like Java, Python, and JavaScript and familiar with frameworks such as React and Node.js. I am always eager to learn, collaborate, and contribute to open-source projects.
 
-Skills: C / C++/ HTML / CSS/ Java / Python
+Skills: C / C++/ Java / Python
 
-Skills:  JS / HTML / CSS 
+Skills: HTML / CSS / Tailwind / JavaScript / React / Firebase / Node JS / Express JS / MongoDB
 
 - 🔭 I’m currently working on Software Developer 
 - 🌱 I’m currently learning Machine Learning 
