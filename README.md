@@ -1,4 +1,4 @@
-![Software Developer](https://scontent.fdac68-2.fna.fbcdn.net/v/t39.30808-6/455091904_1885307671957269_5020470115521857661_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF6gxr1RI0xdreL0uzBPxX6B6D8cOK_EeYHoPxw4r8R5vFI9VQCxidDVAqn8T71P6ezD4AqWZ0so-qJ6Ds0YnH9&_nc_ohc=SA_jyLx2AlAQ7kNvgHgpZ_B&_nc_oc=AdnrH1tFA8BgI7Snq8t1ytAV_UXEAlZKAGbOMmXDgTv5A0yPQM6OmOzsPApwRilIwhJ5UkhOUh0hRAgFX0KQ8U_I&_nc_zt=23&_nc_ht=scontent.fdac68-2.fna&_nc_gid=BjcyeOyC15GUxRfMoIO7cw&oh=00_AYFsrxi4E0Hnh4hPCZVBo1AfCmp-hJcUthpma8YwNbEV3w&oe=67EE07BA)
+
 
 ##### Hi there 👋, my name is SHEIKH MD ABU SHAID RASEL
 
