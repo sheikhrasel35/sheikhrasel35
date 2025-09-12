@@ -13,6 +13,25 @@ Skills: C / C++ / Java / Python
 
 Skills: HTML / CSS / Tailwind / JavaScript / React / Firebase / Node JS / Express JS / MongoDB
 
+
+💻 Tech Stack
+🧠 Languages
+C C++ Python Go JavaScript
+
+🌐 Frontend
+HTML5 CSS3 React Redux TailwindCSS ShadCN UI
+
+🔙 Backend
+Django Django REST Node.js Express.js Next.js Gin gRPC
+
+🧩 Databases
+MongoDB Mongoose Postgres MySQL SQLite
+
+🚀 Deployment
+Vercel Render Docker
+
+
+
 - 🔭 I’m currently working on Software Developer 
 - 🌱 I’m currently learning Data Science & Machine Learning 
 - 👯 I’m looking to collaborate on github 
