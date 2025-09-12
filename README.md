@@ -15,6 +15,9 @@ Skills: HTML / CSS / Tailwind / JavaScript / React / Firebase / Node JS / Expres
 
 
 #💻 Tech Stack
+![Ansible Role](https://img.shields.io/ansible/role/d/:namespace/:name)
+<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/:parser">
+
 
 ##🧠 Languages
 
