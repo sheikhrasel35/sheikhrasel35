@@ -14,15 +14,6 @@ Skills: C / C++ / Java / Python
 Skills: HTML / CSS / Tailwind / JavaScript / React / Firebase / Node JS / Express JS / MongoDB
 
 
-#💻 Tech Stack
-![Ansible Role](https://img.shields.io/ansible/role/d/:namespace/:name)
-<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/:parser">
-
-
-##🧠 Languages
-
-
-
 
 
 - 🔭 I’m currently working on Software Developer 
