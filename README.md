@@ -1,6 +1,8 @@
 <div align="center">
   <h1>✨ Hi, I'm Sheikh Md Abu Shaid Rasel ✨</h1>
-  <h3>🚀 Software Engineer | MERN Stack Developer | Competitive Programmer</h3>
+  <img src="https://img.shields.io/badge/Software%20Engineer-MERN%20Stack%20Developer-blue?style=for-the-badge&logo=react" alt="Role" />
+  <img src="https://img.shields.io/badge/Competitive%20Programmer-Codeforces-orange?style=for-the-badge&logo=codeforces" alt="Role" />
+</div>
   
   ---
 
@@ -129,7 +131,7 @@
 
 ---
 
-### 📊 GitHub Analytics:
+<h3 align="center">📊 GitHub Analytics:</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
