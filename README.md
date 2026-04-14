@@ -58,8 +58,18 @@ I am a software engineering student passionate about building innovative and eff
 
 ---
 
-### 📊 GitHub Stats:
+
+
+---
+
+### 📊 GitHub Analytics:
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=sheikhrasel35&theme=tokyonight" alt="GitHub streak stats" />
 </p>
