@@ -1,7 +1,9 @@
 <div align="center">
   <h1>✨ Hi, I'm Sheikh Md Abu Shaid Rasel ✨</h1>
-  <img src="https://img.shields.io/badge/Software%20Engineer-MERN%20Stack%20Developer-blue?style=for-the-badge&logo=react" alt="Role" />
-  <img src="https://img.shields.io/badge/Competitive%20Programmer-Codeforces-orange?style=for-the-badge&logo=codeforces" alt="Role" />
+  
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/MERN%20STACK%20DEVELOPER-007ACC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMER-4B4B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Competitive Programmer" />
 </div>
   
   ---
