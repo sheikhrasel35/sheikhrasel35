@@ -1,7 +1,7 @@
 # Hi there 👋, I'm SHEIKH MD ABU SHAID RASEL
 
 
-# 🚀 Software Engineer | MERN Stack Developer | Competitive Programmer
+## 🚀 Software Engineer | MERN Stack Developer | Competitive Programmer
 
 
 I am a passionate Software Engineering student dedicated to crafting innovative and efficient digital solutions. With a strong foundation in the **MERN Stack** and a deep love for **Competitive Programming**, I bridge the gap between complex algorithmic problems and user-centric web applications. 
