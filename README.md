@@ -135,11 +135,15 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### 📊 My GitHub Metrics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhrasel35&theme=tokyonight" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
