@@ -143,3 +143,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sheikhrasel35&theme=tokyonight" alt="GitHub streak stats" />
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheikhrasel35&theme=tokyonight&no-bg=true&column=4" alt="github trophy" />
+</p>
