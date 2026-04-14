@@ -47,6 +47,29 @@ I am a passionate Software Engineering student dedicated to crafting innovative 
 
 ---
 
+### 🏆 Competitive Programming & Coding Profiles:
+<p align="left">
+  <a href="https://codeforces.com/profile/SheikhRasel35" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/Sheikh_Rasel35/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/shaid_rasel_35" target="blank">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/abushaidrasel" target="blank">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/1035023" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Beecrowd-F99D1C?style=for-the-badge&logo=beecrowd&logoColor=white" alt="Beecrowd" />
+  </a>
+</p>
+
+---
+
+---
+
 ### 📫 Let's Connect & Collaborate:
 <p align="left">
   <a href="https://www.linkedin.com/in/sheikh-md-abu-shaid-rasel" target="blank">
