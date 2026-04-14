@@ -1,12 +1,17 @@
-# Hi there 👋, I'm SHEIKH MD ABU SHAID RASEL
+<div align="center">
+  <h1>✨ Hi, I'm Sheikh Md Abu Shaid Rasel ✨</h1>
+  <h3>🚀 Software Engineer | MERN Stack Developer | Competitive Programmer</h3>
+  
+  ---
 
+  <p align="center">
+    I am a passionate Software Engineering student dedicated to crafting innovative and efficient digital solutions. With a strong foundation in the <b>MERN Stack</b> and a deep love for <b>Competitive Programming</b>, I bridge the gap between complex algorithmic problems and user-centric web applications. 
+    <br><br>
+    Currently, I am focusing on building scalable web solutions while sharpening my problem-solving skills across various platforms like <b>Codeforces</b> and <b>LeetCode</b>. Constantly evolving through code, one commit (and one AC) at a time.
+  </p>
+</div>
 
-## 🚀 Software Engineer | MERN Stack Developer | Competitive Programmer
-
-
-I am a passionate Software Engineering student dedicated to crafting innovative and efficient digital solutions. With a strong foundation in the **MERN Stack** and a deep love for **Competitive Programming**, I bridge the gap between complex algorithmic problems and user-centric web applications. 
-
-Currently, I am focusing on building scalable web solutions while sharpening my problem-solving skills across various platforms like **Codeforces** and **LeetCode**. Constantly evolving through code, one commit (and one AC) at a time.
+---
 
 ---
 
