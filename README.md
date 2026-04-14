@@ -16,7 +16,7 @@
 ---
 
 
-### 🛠️ What I Do:
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 * 🌐 **MERN Stack Development**: Crafting seamless user experiences with **React** and building robust, scalable backends using **Node.js**, **Express**, and **MongoDB**.
 * 🧠 **Problem Solving**: Active competitive programmer with a focus on algorithms and data structures to optimize software performance.
 * 📈 **Continuous Growth**: Deep diving into **Data Science** and **Machine Learning** to build intelligent systems.
