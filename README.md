@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠 Tech Stack & Skills:
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 **Frontend Development:**
 <p align="left">
