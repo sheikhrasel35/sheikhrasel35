@@ -140,13 +140,13 @@
 
 | 📈 GitHub Stats | 🛠️ Top Languages |
 | :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" /> |
+| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" /> | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" /> |
 
 <br>
 
 | 🗓️ Contribution Graph |
 | :---: |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhrasel35&theme=tokyonight" width="100%" /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhrasel35&theme=tokyonight&area=true" width="100%" /> |
 
 <br>
 
