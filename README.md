@@ -1,39 +1,63 @@
+# Hi there 👋, my name is SHEIKH MD ABU SHAID RASEL
 
+### MERN Stack Developer | Software Engineering Student at DIU
 
-##### Hi there 👋, my name is SHEIKH MD ABU SHAID RASEL
+I am a software engineering student passionate about building innovative and efficient solutions. My interests include web development, algorithms, and problem-solving. I enjoy working on projects that enhance my coding skills and expand my knowledge of software development.
 
-#### Software Developer
+---
 
+### 🔭 Current Activity:
+- 🔭 I’m currently working on **MERN Stack** projects.
+- 🌱 I’m currently learning **Data Science & Machine Learning**.
+- 👯 I’m looking to collaborate on **GitHub** open-source projects.
 
-Learner
+---
 
-I am a software engineering student passionate about building innovative and efficient solutions. My interests include web development, algorithms, and problem-solving. I enjoy working on projects that enhance my coding skills and expand my knowledge of software development. I am proficient in languages like Java, Python, and JavaScript and familiar with frameworks such as React and Node.js. I am always eager to learn, collaborate, and contribute to open-source projects.
+### 🛠 Tech Stack & Skills:
 
-Skills: C / C++ / Java / Python
+**Frontend Development:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,typescript,figma" />
+  </a>
+</p>
 
-Skills: HTML / CSS / Tailwind / JavaScript / React / Firebase / Node JS / Express JS / MongoDB
+**Backend Development:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,php,postman" />
+  </a>
+</p>
 
+**Languages & Tools:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,git,github,vercel,netlify,vscode" />
+  </a>
+</p>
 
+---
 
+### 🎓 Education:
+- **B.Sc. in Software Engineering**
+- **Daffodil International University**
 
-- 🔭 I’m currently working on Software Developer 
-- 🌱 I’m currently learning Data Science & Machine Learning 
-- 👯 I’m looking to collaborate on github 
+---
 
+### 📫 Let's Connect & Collaborate:
+<p align="left">
+<a href="mailto:abushaidrasel@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sheikh-md-abu-shaid-rasel/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/@Sheikhrasel35" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://twitter.com/https://x.com/SheikhRasel666" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sheikh__rasel___/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://facebook.com/https://www.facebook.com/SheikhMdAbuShaidRasel" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sheikhrasel35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sheikh-md-abu-shaid-rasel//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/SheikhRasel2004/about)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sheikh__rasel___//)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheikhrasel35)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sheikhrasel35/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/sheikhrasel35)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sheikhrasel35)  
-
+### 📊 GitHub Stats:
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight"/>
+</p>
