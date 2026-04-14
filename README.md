@@ -133,7 +133,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics:</h3>
+<div align="center">
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
@@ -144,9 +146,4 @@
   <img src="https://streak-stats.demolab.com/?user=sheikhrasel35&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhrasel35&theme=tokyonight&no-bg=true&column=4" alt="github trophy" />
-</p>
+</div>
