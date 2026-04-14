@@ -16,8 +16,8 @@
 ---
 
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-* 🌐 **MERN Stack Development**: Crafting seamless user experiences with **React** and building robust, scalable backends using **Node.js**, **Express**, and **MongoDB**.
+### 🛠️ What I Do:
+* 🌐 **MERN Stack Development**: Building scalable and high-performance web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**.
 * 🧠 **Problem Solving**: Active competitive programmer with a focus on algorithms and data structures to optimize software performance.
 * 📈 **Continuous Growth**: Deep diving into **Data Science** and **Machine Learning** to build intelligent systems.
   
@@ -58,9 +58,13 @@
 
 ---
 
-### 🎓 Education:
-- **B.Sc. in Software Engineering**
-- **Daffodil International University**
+<div align="center">
+
+## 🎓 Education
+### **B.Sc. in Software Engineering**
+**Daffodil International University**
+
+</div>
 
 ---
 
@@ -127,12 +131,11 @@
 
 ### 📊 GitHub Analytics:
 
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=sheikhrasel35&theme=tokyonight" alt="GitHub streak stats" />
 </p>
