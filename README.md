@@ -133,21 +133,25 @@
 
 ---
 
+
 <div align="center">
 
-### 📊 My GitHub Metrics
+### 📊 GitHub Metrics & Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+| 📈 GitHub Stats | 🛠️ Top Languages |
+| :---: | :---: |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhrasel35&show_icons=true&theme=tokyonight&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhrasel35&layout=compact&theme=tokyonight" /> |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhrasel35&theme=tokyonight" width="100%" alt="Activity Graph" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sheikhrasel35&theme=tokyonight" alt="GitHub streak stats" />
-</p>
+| 🗓️ Contribution Graph |
+| :---: |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhrasel35&theme=tokyonight" width="100%" /> |
+
+<br>
+
+| 🔥 GitHub Streak |
+| :---: |
+| <img src="https://streak-stats.demolab.com/?user=sheikhrasel35&theme=tokyonight" /> |
 
 </div>
