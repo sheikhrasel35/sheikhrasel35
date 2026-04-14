@@ -1,6 +1,6 @@
-# Hi there 👋, my name is SHEIKH MD ABU SHAID RASEL
+# Hi there 👋, I'm SHEIKH MD ABU SHAID RASEL
 
-### MERN Stack Developer | Software Engineering Student at DIU
+### 🚀 MERN Stack Developer | Software Engineering Student at DIU
 
 I am a software engineering student passionate about building innovative and efficient solutions. My interests include web development, algorithms, and problem-solving. I enjoy working on projects that enhance my coding skills and expand my knowledge of software development.
 
