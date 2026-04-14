@@ -82,6 +82,7 @@ Currently, I am focusing on building scalable web solutions while sharpening my 
 
 ---
 
+
 ### 📫 Let's Connect & Collaborate:
 <p align="left">
   <a href="https://www.linkedin.com/in/sheikh-md-abu-shaid-rasel" target="blank">
@@ -89,6 +90,9 @@ Currently, I am focusing on building scalable web solutions while sharpening my 
   </a>
   <a href="mailto:abushaidrasel@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801324946663" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://discord.com/users/mdabushaidrasel35" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -106,6 +110,7 @@ Currently, I am focusing on building scalable web solutions while sharpening my 
     <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
 
 ---
 
