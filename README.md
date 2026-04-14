@@ -1,6 +1,8 @@
 # Hi there 👋, I'm SHEIKH MD ABU SHAID RASEL
 
-### 🚀 Software Engineering Student @ DIU | Full-Stack Developer | Competitive Programmer ###
+
+# 🚀 Software Engineer | MERN Stack Developer | Competitive Programmer
+
 
 I am a passionate Software Engineering student dedicated to crafting innovative and efficient digital solutions. With a strong foundation in the **MERN Stack** and a deep love for **Competitive Programming**, I bridge the gap between complex algorithmic problems and user-centric web applications. 
 
@@ -8,10 +10,12 @@ Currently, I am focusing on building scalable web solutions while sharpening my 
 
 ---
 
+
 ### 🛠️ What I Do:
-* 🌐 **Full-Stack Development**: Crafting seamless user experiences with **React** and robust backends with **Node.js**.
+* 🌐 **MERN Stack Development**: Crafting seamless user experiences with **React** and building robust, scalable backends using **Node.js**, **Express**, and **MongoDB**.
 * 🧠 **Problem Solving**: Active competitive programmer with a focus on algorithms and data structures to optimize software performance.
 * 📈 **Continuous Growth**: Deep diving into **Data Science** and **Machine Learning** to build intelligent systems.
+  
 
 
 
